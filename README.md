@@ -1,6 +1,6 @@
 # Arabic Geminate Probing — 
 
-Replication code for the probing analysis in:
+Code for the probing analysis in:
 
 > AlShakhori & Issa — *Encoding of Arabic Geminate Consonants in Self-Supervised Speech Representations: A Probing Analysis*
 
