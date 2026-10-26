@@ -112,3 +112,8 @@ Results saved to:
 - `logs/ctc/wav2vec2-base/layer_N.pt` — per-layer CTC head checkpoints
 - `data/arabic-geminate/results/wav2vec2-base_ctc_duration_summary.csv` — mean duration per layer and category
 - `logs/ctc/forced_alignment_results.csv` — raw per-token durations
+
+## Contributors
+
+- [Mohammed Alshakhori](https://github.com/mohmdsh)
+- [Elsayed Issa](https://github.com/elsayed-issa)
